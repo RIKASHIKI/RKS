@@ -334,8 +334,8 @@ Follow The Steps Below!
 
 ## Special Thanks To
 
-* <a href="" src="https://img.shields.io/badge/EMAK%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-* <a href="https://github.com/mhankbarbar"><img alt="GitHub" src="https://img.shields.io/badge/TEMAN%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-* <a href="https://github.com/Nurutomo"><img alt="GitHub" src="https://img.shields.io/badge/ALLAH SWT%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-* <a href="https://github.com/TobyG74"><img alt="GitHub" src="https://img.shields.io/badge/CONTEN CREATOR%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-* <a href="https://github.com/ArugaZ"><img alt="GitHub" src="https://img.shields.io/badge/DAN YG LAIN%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/RIKASHIKI"><img alt="Github" src="https://img.shields.io/badge/EMAK DAN BAPAK%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/RIKASHIKI"><img alt="GitHub" src="https://img.shields.io/badge/TEMAN TEMAN%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/RIKASHIKI"><img alt="GitHub" src="https://img.shields.io/badge/ALLAH SWT%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/RIKASHIKI"><img alt="GitHub" src="https://img.shields.io/badge/CONTEN CREATOR%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/RIKASHIKI"><img alt="GitHub" src="https://img.shields.io/badge/DAN YG LAIN%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
